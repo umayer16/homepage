@@ -1,0 +1,34 @@
+HTML Tags Used:
+1. <nav>
+2. <header>
+3. <footer>
+4. <h1>
+5. <p>
+6. <img>
+7. <button>
+8. <form>
+9. <input>
+10. <textarea>
+11. <div>
+
+CSS Selectors Used:
+1. body (tag selector)
+2. .text-center (class selector)
+3. #name (ID selector)
+4. h1, h2 (multiple selector)
+5. footer (tag selector)
+
+CSS Properties Used:
+1. font-family
+2. background-color
+3. text-align
+4. color
+5. font-size
+6. margin-top
+7. border-color
+
+Bootstrap Feature:
+- Used Bootstrap navbar, buttons, and card components for layout and design.
+
+JavaScript Feature:
+- Added interactivity through alerts and form submission feedback.
